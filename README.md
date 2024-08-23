@@ -2,8 +2,8 @@
 
 # Upcoming Business Intelligence Company: AlphaSense
 
-## Overview: The When, Why, Who, and How of their origin
-AlphaSense is a company founded in 2011 by Jack Kokko and Raj Neervannan. It started by advancing companies' research in business output. On their About Us page for AlphaSense they state that:
+## Overview: The When, Why, Who, and How of their origin <br>
+AlphaSense is a company founded in 2011 by Jack Kokko and Raj Neervannan. It started by advancing companies' research in business output. On their About Us page for AlphaSense they state that: <br>
 ‘[They] sought to solve this problem by launching AlphaSense, a new type of search engine that leverages machine learning and natural language processing technology to enable professionals to cut through the noise and easily extract insights from thousands of sources and billions of data points.’ [1]
 From January 2013 to June 2024, the company has had a total of 12 funding rounds amassing $1.39 Billion coming from multiple financial institutions like Viking Global Investors, Goldman Sachs, and CapitalG with total of 31 investors. [2]
 ## Business Activities
@@ -26,17 +26,17 @@ One recommendation I have for AlphaSense is to create an investment application 
 
 
 
-References
-[1] https://www.alpha-sense.com/about/
-[2] https://tracxn.com/d/companies/alphasense/__S_AoDv_cGJCcAbin7ukuADCzx32QzAkJndWZYjTqobc/funding-and-investors#:~:text=AlphaSense%20has%20raised%20a%20total%20funding%20of%20%241.39B%20over%2012%20rounds.
-[3] https://www.alpha-sense.com/solutions/financial-research-platform/
-[4] https://www.alpha-sense.com/case-studies/
-[5] https://www.forbes.com/sites/isabelcontreras/2021/09/30/alphasense-an-ai-search-engine-for-corporations-raises-180-million-in-series-c-round-led-by-goldman-sachs-viking-global/#:~:text=Many%20of%20its%20investors%20including,from%20the%20competition%2C%20clients%20say.
-[6] https://www.alpha-sense.com/compare/
-[7] https://www.alpha-sense.com/compare/alphasense-vs-cbinsights/ 
-[8] https://www.alpha-sense.com/compare/alphasense-vs-hebbia/
-[9] https://www.alpha-sense.com/solutions/generative-ai-in-market-research/
-[10] https://www.alpha-sense.com/blog/product/generative-ai-revolutionized-market-intelligence-2023/
-[11] https://www.celonis.com/blog/how-to-measure-bi-performance-20-kpis-that-matter/
+References <br>
+[1] https://www.alpha-sense.com/about/ <br>
+[2] https://tracxn.com/d/companies/alphasense/__S_AoDv_cGJCcAbin7ukuADCzx32QzAkJndWZYjTqobc/funding-and-investors#:~:text=AlphaSense%20has%20raised%20a%20total%20funding%20of%20%241.39B%20over%2012%20rounds. <br>
+[3] https://www.alpha-sense.com/solutions/financial-research-platform/ <br>
+[4] https://www.alpha-sense.com/case-studies/ <br>
+[5] https://www.forbes.com/sites/isabelcontreras/2021/09/30/alphasense-an-ai-search-engine-for-corporations-raises-180-million-in-series-c-round-led-by-goldman-sachs-viking- global/#:~:text=Many%20of%20its%20investors%20including,from%20the%20competition%2C%20clients%20say. <br>
+[6] https://www.alpha-sense.com/compare/ <br>
+[7] https://www.alpha-sense.com/compare/alphasense-vs-cbinsights/ <br>
+[8] https://www.alpha-sense.com/compare/alphasense-vs-hebbia/ <br>
+[9] https://www.alpha-sense.com/solutions/generative-ai-in-market-research/ <br>
+[10] https://www.alpha-sense.com/blog/product/generative-ai-revolutionized-market-intelligence-2023/ <br>
+[11] https://www.celonis.com/blog/how-to-measure-bi-performance-20-kpis-that-matter/ <br>
 
 
