@@ -4,7 +4,7 @@
 
 ## Overview: The When, Why, Who, and How of their origin <br>
 AlphaSense is a company founded in 2011 by Jack Kokko and Raj Neervannan. It started by advancing companies' research in business output. On their About Us page for AlphaSense they state that: <br>
->[They] sought to solve this problem by launching AlphaSense, a new type of search engine that leverages machine learning and natural language processing technology to enable professionals to cut through the noise and easily extract insights from thousands of sources and billions of data points.’ [1] <br>
+>[They] sought to solve this problem by launching AlphaSense, a new type of search engine that leverages machine learning and natural language processing technology to enable professionals to cut through the noise and easily extract insights from thousands of sources and billions of data points.’ [1] </code>
 From January 2013 to June 2024, the company has had a total of 12 funding rounds amassing $1.39 Billion coming from multiple financial institutions like Viking Global Investors, Goldman Sachs, and CapitalG with total of 31 investors. [2] <br>
 ## Business Activities
 It is a financial research platform that can assist in the decision-making for asset management, private equity, and investment banking and research into investment opportunities and venture capital [3]. The major clientele of AlphaSense is “85% of the S&P 100, 80% of top asset management firms, [and] 80% of the top consultancies” [4]. The investors, which are a part of the stated percentiles, utilize the services offered by AlphaSense [5]. From the partnerships with investors comes a unique set of data that gives an edge against competitors [5].  
